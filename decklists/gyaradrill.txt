@@ -1,0 +1,19 @@
+GYARADRILL DECK
+----------------------------------------
+Grass Energy ×13
+Bulbasaur lv13 ×4
+Weedle lv12 ×4
+Kakuna lv23 ×2
+Beedrill lv32 ×1
+Water Energy ×14
+Staryu lv15 ×4
+Magikarp lv8 ×3
+Gyarados lv41 ×2
+'Revive' Trainer ×1
+'Pokédex' Trainer ×1
+'Super Potion' Trainer ×2
+'Bill' Trainer ×3
+'Potion' Trainer ×1
+'Gust of Wind' Trainer ×2
+'Defender' Trainer ×1
+'Switch' Trainer ×2
